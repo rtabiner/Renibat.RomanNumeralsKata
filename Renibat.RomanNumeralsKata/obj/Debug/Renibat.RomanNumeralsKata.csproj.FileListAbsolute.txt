@@ -5,3 +5,10 @@ c:\users\rob\documents\visual studio 2013\Projects\Renibat.RomanNumeralsKata\Ren
 c:\users\rob\documents\visual studio 2013\Projects\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.csprojResolveAssemblyReference.cache
 c:\users\rob\documents\visual studio 2013\Projects\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.dll
 c:\users\rob\documents\visual studio 2013\Projects\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.pdb
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\bin\Debug\Renibat.RomanNumeralsKata.dll
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\bin\Debug\Renibat.RomanNumeralsKata.pdb
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\bin\Debug\nunit.framework.dll
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\bin\Debug\nunit.framework.xml
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.csprojResolveAssemblyReference.cache
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.dll
+C:\Src\Renibat.RomanNumeralsKata\Renibat.RomanNumeralsKata\obj\Debug\Renibat.RomanNumeralsKata.pdb

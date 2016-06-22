@@ -12,7 +12,7 @@ namespace Renibat.RomanNumeralsKata.Services
 
             for (int i = 0; i < numbers.Length; i++)
             {
-                while (number >= numbers[i] && number > 0)
+                while (number >= numbers[i])
                 {
                     result += numerals[i];
 
